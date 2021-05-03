@@ -1,6 +1,11 @@
 # Symantec-VIP-Access-Auto-Click
 Open VIP Access and auto click the copy security code to desktop
 
+Requirements
+```python
+pip install uiautomation
+```
+
 Run with: 
 ```python
 python vipAccessClick.py
