@@ -8,7 +8,7 @@ import uiautomation as auto
 auto.uiautomation.DEBUG_EXIST_DISAPPEAR = False  # set it to False and try again, default is False
 auto.uiautomation.DEBUG_SEARCH_TIME = False  # set it to False and try again, default is False
 auto.uiautomation.TIME_OUT_SECOND = 10  # global time out
-auto.uiautomation.MAX_MOVE_SECOND = .2 # Moves the cursor to the position Default is of 1 second
+auto.uiautomation.MAX_MOVE_SECOND = .1 # Moves the cursor to the position Default is of 1 second
 
 
 def openGlobalPass():
